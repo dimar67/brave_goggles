@@ -1,0 +1,30 @@
+! name: Exclude Globalist MSM Propagand Goggle
+! description: title say it all
+! public: false
+! author: just some Dude
+
+.cnn.$discard
+.msnbc.$discard
+.vox.$discard
+.theguardian.$discard
+.nbcnews.$discard
+.abcnews.$discard
+.bbc.$discard
+.yahoo.$discard
+.google.$discard
+.youtube.$discard
+.nytimes.$discard
+.cbsnews.$discard
+.reuters.$discard
+.npr.$discard
+.ap.$discard
+.apnews.$discard
+.harvard^.$discard
+.abc^.com.$discard
+.politico.$discard
+.aljazeera.$discard
+.newyorker.$discard
+.washingtonpost.$discard
+.bloomberg.$discard
+.latimes.$discard
+.theepochtimes.$discard
